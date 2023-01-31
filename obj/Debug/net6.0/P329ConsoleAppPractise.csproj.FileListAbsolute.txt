@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\TeacherCrud\P329ConsoleAppPractise\P329ConsoleAppPractise\bin\Debug\net6.0\P329ConsoleAppPractise.exe
+C:\Users\User\source\repos\TeacherCrud\P329ConsoleAppPractise\P329ConsoleAppPractise\bin\Debug\net6.0\P329ConsoleAppPractise.deps.json
+C:\Users\User\source\repos\TeacherCrud\P329ConsoleAppPractise\P329ConsoleAppPractise\bin\Debug\net6.0\P329ConsoleAppPractise.runtimeconfig.json
+C:\Users\User\source\repos\TeacherCrud\P329ConsoleAppPractise\P329ConsoleAppPractise\bin\Debug\net6.0\P329ConsoleAppPractise.dll
+C:\Users\User\source\repos\TeacherCrud\P329ConsoleAppPractise\P329ConsoleAppPractise\bin\Debug\net6.0\P329ConsoleAppPractise.pdb
+C:\Users\User\source\repos\TeacherCrud\P329ConsoleAppPractise\P329ConsoleAppPractise\obj\Debug\net6.0\P329ConsoleAppPractise.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TeacherCrud\P329ConsoleAppPractise\P329ConsoleAppPractise\obj\Debug\net6.0\P329ConsoleAppPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TeacherCrud\P329ConsoleAppPractise\P329ConsoleAppPractise\obj\Debug\net6.0\P329ConsoleAppPractise.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TeacherCrud\P329ConsoleAppPractise\P329ConsoleAppPractise\obj\Debug\net6.0\P329ConsoleAppPractise.AssemblyInfo.cs
+C:\Users\User\source\repos\TeacherCrud\P329ConsoleAppPractise\P329ConsoleAppPractise\obj\Debug\net6.0\P329ConsoleAppPractise.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TeacherCrud\P329ConsoleAppPractise\P329ConsoleAppPractise\obj\Debug\net6.0\P329ConsoleAppPractise.dll
+C:\Users\User\source\repos\TeacherCrud\P329ConsoleAppPractise\P329ConsoleAppPractise\obj\Debug\net6.0\refint\P329ConsoleAppPractise.dll
+C:\Users\User\source\repos\TeacherCrud\P329ConsoleAppPractise\P329ConsoleAppPractise\obj\Debug\net6.0\P329ConsoleAppPractise.pdb
+C:\Users\User\source\repos\TeacherCrud\P329ConsoleAppPractise\P329ConsoleAppPractise\obj\Debug\net6.0\P329ConsoleAppPractise.genruntimeconfig.cache
+C:\Users\User\source\repos\TeacherCrud\P329ConsoleAppPractise\P329ConsoleAppPractise\obj\Debug\net6.0\ref\P329ConsoleAppPractise.dll
